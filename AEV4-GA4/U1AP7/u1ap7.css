@@ -1,0 +1,12 @@
+
+a {
+    color: blue;
+    font-weight: bold; }
+   
+    a:visited {
+    color: red; }
+
+
+    .negrita{
+        font-weight:bold
+        } 
